@@ -7,7 +7,7 @@ Most of what lives here started as "this annoys me on my Linux laptop, let me sc
 Most of my uni work lives in private repos, so here's a sneak peek at what you can't see:
 - **Praxisprojekt** ([PraxisProj-VR](https://github.com/PraxisProj-VR)): how reliable are wearable [EmotiBit](https://www.emotibit.com) sensors for physiological measurements in VR? _Group project of four._
   - Two people; four sensors; six sessions (sitting, moving, table tennis); five body positions, giving ~210,000 data points of heart rate, skin temperature, skin conductance and more.
-  - We compared data loss over WiFi vs. SD card, sync offsets between devices and signal reliablilty over differnet body positions.
+  - We compared data loss over WiFi vs. SD card, sync offsets between devices and signal reliability over different body positions.
   - Fully reproducible R pipeline (`renv`, `box`, linting and CI), from download link to a rendered Quarto presentation.
 - Presentations and homework for courses like Inferential Statistics II and programming/clean-code classes.
 
